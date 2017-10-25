@@ -28,10 +28,6 @@ public class ContaTeste {
 		c1.exibeSaldo();
 		c2.exibeSaldo();
 		
-		
-		c1.imprimi();
-		c2.imprimi();
-		
 		}
 		finally {
 			arquivo.gravar();

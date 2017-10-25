@@ -16,11 +16,6 @@ public class Conta {
 		arquivar.registro(conta, cliente);
 	}
 	
-	void imprimi(){
-		
-		System.out.println(Conta.class.getClasses());
-		
-	}
 	
 	public String getCliente() {
 		return cliente;
